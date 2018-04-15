@@ -1,0 +1,105 @@
+# Theme: Underscore  
+# By: Alberto Williams
+
+# Window geometry
+padding.width: 20
+padding.height: 10
+border.width: 5
+window.client.padding.width: 0
+window.client.padding.height: 0
+window.handle.width: 0
+
+# Menu geometry
+menu.border.width: 10
+menu.overlap.x: -12
+menu.overlap.y: 0
+
+# Border colors
+window.active.border.color: #000000
+window.inactive.border.color: #202020
+menu.border.color: #101010
+window.active.client.color: #ffffff
+window.inactive.client.color: #0f0f0f
+
+# Window title justification
+window.label.text.justify: Left
+
+# Active window
+window.active.title.bg: Solid flat
+window.active.title.bg.color: #000000
+
+window.active.label.bg: Parentrelative
+window.active.label.text.color: #f0f0f0
+
+window.active.button.unpressed.bg: Parentrelative
+window.active.button.unpressed.image.color: #f0f0f0
+
+window.active.button.pressed.bg: Parentrelative
+window.active.button.pressed.image.color: #8f8f8f
+
+window.active.button.disabled.bg: Parentrelative
+window.active.button.disabled.image.color: #2f2f2f
+
+window.active.button.hover.bg: Parentrelative
+window.active.button.hover.image.color: #ffffff
+
+window.active.button.toggled.unpressed.bg: Parentrelative
+window.active.button.toggled.unpressed.image.color: #f0f0f0
+
+window.active.button.toggled.pressed.bg: Parentrelative 	
+window.active.button.toggled.pressed.image.color: #8f8f8f
+
+window.active.button.toggled.hover.bg: Parentrelative
+window.active.button.toggled.hover.image.color: #ffffff
+
+# Inactive windows
+window.inactive.title.bg: Solid flat
+window.inactive.title.bg.color: #202020
+
+window.inactive.label.bg: Parentrelative
+window.inactive.label.text.color: #d0d0d0
+
+window.inactive.button.unpressed.bg: Parentrelative
+window.inactive.button.unpressed.image.color: #d0d0d0
+
+window.inactive.button.pressed.bg: Parentrelative
+window.inactive.button.pressed.image.color: #d0d0d0
+
+window.inactive.button.disabled.bg: Parentrelative
+window.inactive.button.disabled.image.color: #a0a0a0
+
+window.inactive.button.toggled.bg: Parentrelative
+window.inactive.button.toggled.image.color: #a0a0a0
+
+window.inactive.button.hover.bg: Parentrelative
+window.inactive.button.hover.image.color: #d0d0d0
+
+window.inactive.button.toggled.unpressed.bg: Parentrelative
+window.inactive.button.toggled.unpressed.image.color: #d0d0d0
+
+window.inactive.button.toggled.pressed.bg: Parentrelative
+window.inactive.button.pressed.toggled.image.color: #d0d0d0
+
+window.inactive.button.toggled.hover.bg: Parentrelative
+window.inactive.button.toggled.hover.image.color: #d0d0d0
+
+# Menus
+menu.title.bg: Solid flat
+menu.title.bg.color: #000000
+menu.title.text.color: #ffffff
+menu.title.text.justify: Center
+
+menu.separator.color: #000000
+menu.separator.width: 1
+menu.separator.padding.width: 50
+menu.separator.padding.height: 10
+
+menu.items.bg: Solid flat
+menu.items.bg.color: #101010
+menu.items.text.color: #e0e0e0
+menu.items.disabled.text.color: #2f2f2f
+
+menu.items.active.bg: Solid flat
+menu.items.active.bg.color: #
+menu.items.active.text.color: #ffffff	
+menu.items.active.disabled.text.color: #2f2f2f
